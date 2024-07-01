@@ -79,4 +79,4 @@ const News = (props) =>{
   category: PropTypes.string,
 }
 
-export default News 
+export default News
